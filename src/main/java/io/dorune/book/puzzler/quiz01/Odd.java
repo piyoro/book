@@ -12,6 +12,26 @@ public class Odd {
 		System.out.println(odd.isOdd(-1));
 		System.out.print("1-4. -2의 홀수/짝수 판단. 무엇이 출력될까? : ");
 		System.out.println(odd.isOdd(-2));
+
+		System.out.println();
+		System.out.print("2-1. 1의 홀수/짝수 판단. 무엇이 출력될까? : ");
+		System.out.println(odd.isOdd2(1));
+		System.out.print("2-2. 2의 홀수/짝수 판단. 무엇이 출력될까? : ");
+		System.out.println(odd.isOdd2(2));
+		System.out.print("2-3. -1의 홀수/짝수 판단. 무엇이 출력될까? : ");
+		System.out.println(odd.isOdd2(-1));
+		System.out.print("2-4. -2의 홀수/짝수 판단. 무엇이 출력될까? : ");
+		System.out.println(odd.isOdd2(-2));
+
+		System.out.println();
+		System.out.print("3-1. 1의 홀수/짝수 판단. 무엇이 출력될까? : ");
+		System.out.println(odd.isOdd3(1));
+		System.out.print("3-2. 2의 홀수/짝수 판단. 무엇이 출력될까? : ");
+		System.out.println(odd.isOdd3(2));
+		System.out.print("3-3. -1의 홀수/짝수 판단. 무엇이 출력될까? : ");
+		System.out.println(odd.isOdd3(-1));
+		System.out.print("3-4. -2의 홀수/짝수 판단. 무엇이 출력될까? : ");
+		System.out.println(odd.isOdd3(-2));
 	}
 
 	/**
