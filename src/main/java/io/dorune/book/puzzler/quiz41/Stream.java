@@ -9,7 +9,7 @@ import java.io.OutputStream;
 public class Stream {
 
 	public static void main(String[] args) {
-
+		// 실제 책에서 기능 테스트의 내용보다 copy 메서드 본문이 중요하다.
 	}
 	
 	static void copy(String src, String dest) throws IOException {
