@@ -1,0 +1,12 @@
+package io.dorune.book.dp.headfirst.combining.decorator;
+
+public class DecoyDuck implements Quackable {
+ 
+	public void quack() {
+		System.out.println("<< Silence >>");
+	}
+ 
+	public String toString() {
+		return "Decoy Duck";
+	}
+}
