@@ -11,7 +11,7 @@ public class HelloGoodbye {
     }
     
     /**
-     * finally ±¸¹®ÀÇ Goodbye world ¸¦ Ãâ·ÂÇÏ±â À§ÇÑ °³¼±µÈ Ã³¸® ¹æ½Ä
+     * finally êµ¬ë¬¸ì˜ Goodbye world ë¥¼ ì¶œë ¥í•˜ê¸° ìœ„í•œ ê°œì„ ëœ ì²˜ë¦¬ ë°©ì‹
      */
     public static void improve() {
     	System.out.println("Hello world");
